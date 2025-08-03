@@ -31,12 +31,12 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "enter your session",
-    CAPTION: process.env.CAPTION || "POWERED BY SILENTLOVER432",
+    SESSION_ID: process.env.SESSION_ID || "DARK-SILENCE-MD~Dd1QUABR#ERDqZ9uOxondT_4en_R-uXO8VZFbU6OzlducVfUDagQ",
+    CAPTION: process.env.CAPTION || "POWERED BY SARWARAli",
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
     AUTO_REPLY_STATUS: process.env.AUTO_REPLY_STATUS || "false",
     READ_MESSAGE: process.env.READ_MESSAGE || "false", // Added auto-read configuration
-    MODE: process.env.MODE || "public",
+    MODE: process.env.MODE || "private",
     AUTO_VOICE: process.env.AUTO_VOICE || "true",
     AUTO_STICKER: process.env.AUTO_STICKER || "false",
     AUTO_REPLY: process.env.AUTO_REPLY || "false",
@@ -53,7 +53,7 @@ module.exports = {
     CURRENT_STATUS: process.env.CURRENT_STATUS || "true",
     AUTO_REACT: process.env.AUTO_REACT || "false",
     HEART_REACT: process.env.HEART_REACT || "true",
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "923096287432",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "923300795089",
     OWNER_NAME: process.env.OWNER_NAME || "➺ѕเℓεɳƭ_ℓσѵε૨࿐",
     READ_CMD: process.env.READ_CMD || "true",
     BOT_NAME: process.env.BOT_NAME || "➺DARK-SILENCE-MD",
